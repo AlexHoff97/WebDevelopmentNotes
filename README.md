@@ -19,3 +19,7 @@ Links
   * Plugins: [Link 1](http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/) | [Link  2](https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.kxim0fp2t)https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.kxim0fp2t
   * Documentation [Link](https://www.sublimetext.com/docs/3/)
 5. Markdown: [Link](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
+
+
+
+![](cdn.learnenough.com/breaching_whale.jpg "An exemplary image")
