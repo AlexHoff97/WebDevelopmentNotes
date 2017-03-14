@@ -20,7 +20,7 @@ Links
   * Documentation: [Link](https://atom.io/docs)
 5. Sublime:
   * Basics: [Link](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)
-  * Plugins: [Link 1](http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/) | [Link  2](https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.kxim0fp2t)https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.kxim0fp2t
+  * Plugins: [Link 1](http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/) | [Link  2](https://medium.com/@MariaSpr/sublime-text-3-essential-packages-2596133aead9#.kxim0fp2t)
   * Documentation [Link](https://www.sublimetext.com/docs/3/)
 6. Markdown: [Link](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
 
