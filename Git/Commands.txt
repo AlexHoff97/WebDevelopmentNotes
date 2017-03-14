@@ -1,0 +1,61 @@
+Configure
+    git config --global user.name "[name]"
+    git config --global user.email "[email]"
+    git config --global color.ui auto
+
+Creating Repository
+    git clone [url]
+
+    git init
+    git remote add origin [url]
+    git push -u origin master
+
+Review History
+    git log - shows version history of branch
+    git log --follow [file] - shows version history of file
+    git diff [branch 1] [branch 2]
+    git show [commit]
+
+Redo Commits
+    git reset [commit] - undoes all commits after [commit] - preserves changes locally
+    git reset --hard [commit] - Discards all history and changes back to specified commit
+
+Make changes
+    git status
+    git diff
+    git add [file]
+      -a -
+      -A -
+      -. -
+    git diff --staged
+    git reset [file]
+    git commit -m "[message]"
+    git rm [file]
+    git rm --cached [file] - removes from version control only
+    git mv [oFile] [nFile] - changes file name and prepares for commit
+
+.gitignore
+    Exclude Temporary Files and Paths
+      *.log
+      build/
+      temp-*
+    git ls-files --other --ignored -- exclude-standard (List all ignored files)
+
+Branches
+    git branch - Lists all local branches
+    git branch [branch] - creates a new branch
+    git checkout [branch]- Switches to branch and updates working directory
+    git merge [branch] - Combines the specified branch's history to current branch
+    git branch -d [branch] - deletes branch
+
+Merging and Syncing
+    git fetch [bookmark] - Downloads all history from the repository bookmark
+    git merge [bookmark]/[branch] - combines bookmark branch into current branch
+    git push [alias] [branch] - Uploads all local branch commits
+    git pull - Downloads bookmark history and incorporates changes
+
+Save Fragments
+    git stash - Temporarily stores all modified track files
+    git stash pop - Restores the most recently stashed files
+    git stash list - Lists all stashed changesets
+    git stash drop - Discards most recent changeset
