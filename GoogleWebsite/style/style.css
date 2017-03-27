@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Roboto, arial, sans-serif;
+}
+
+.top-bar {
+  position: relative;
+  padding: 2% 0px 0px 1.5%;
+}
+
+.google-logo{
+  display: inline;
+}
+.google-logo img{
+  height: 44px;
+  width: 120px;
+}
+
+.search-field {
+  border-radius: 2px;
+  display: inline-block;
+  width: 60%;
+  padding: 1%;
+}
